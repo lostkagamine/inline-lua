@@ -1,6 +1,6 @@
 [package]
 name = "lua-macro"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Embed Lua code directly into your Rust, for some reason"
 repository = "https://github.com/ry00001/inline-lua"
