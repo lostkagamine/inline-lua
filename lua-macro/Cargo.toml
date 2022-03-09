@@ -2,6 +2,11 @@
 name = "lua-macro"
 version = "0.1.0"
 edition = "2021"
+description = "Embed Lua code directly into your Rust, for some reason"
+repository = "https://github.com/ry00001/inline-lua"
+license = "MIT"
+keywords = ["cursed", "lua", "embed", "another-language"]
+categories = ["development-tools", "development-tools::ffi", "compilers"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

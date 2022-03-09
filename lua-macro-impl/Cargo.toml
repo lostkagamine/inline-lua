@@ -2,6 +2,11 @@
 name = "lua-macro-impl"
 version = "0.1.0"
 edition = "2021"
+description = "Proc macro used by lua-macro"
+repository = "https://github.com/ry00001/inline-lua"
+license = "MIT"
+keywords = []
+categories = []
 
 [lib]
 proc-macro = true
@@ -10,4 +15,3 @@ proc-macro = true
 
 [dependencies]
 quote = "1.0.15"
-#lua-macro = { path = "../lua-macro" }
