@@ -13,4 +13,4 @@ categories = ["development-tools", "development-tools::ffi", "compilers"]
 [dependencies]
 mlua = { version = "0.7.4", features = ["lua54"] }
 quote = "1.0.15"
-lua-macro-impl = { path = "../lua-macro-impl" }
+lua-macro-impl = { path = "../lua-macro-impl", version = "^0.1.0" }
