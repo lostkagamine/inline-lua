@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "lua-macro",
+    "lua-macro-impl",
+    "awful-idea"
+]
