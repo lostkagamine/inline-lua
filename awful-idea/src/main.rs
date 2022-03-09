@@ -1,5 +1,8 @@
 use lua_macro::{lua, lua_eval};
 
+#[cfg(test)]
+mod tests;
+
 fn main() {
     println!("hi from rust");
     lua! {
